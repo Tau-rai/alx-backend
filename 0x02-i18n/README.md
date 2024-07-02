@@ -114,7 +114,7 @@ To localize timestamps, you can use Flask-Babel's `format_datetime` function:
 
 ## Conclusion
 
-By following this guide, you can add robust localization support to your Flask application. Users will appreciate an interface that speaks their language and displays dates and times in their preferred format. Happy coding!
+By following this guide, you can add robust localization support to your Flask application. Users will appreciate an interface that speaks their language and displays dates and times in their preferred format. 
 
 For more information, refer to the [Flask-Babel documentation](https://python-babel.github.io/flask-babel/).
 ---
