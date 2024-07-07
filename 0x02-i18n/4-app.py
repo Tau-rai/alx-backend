@@ -33,7 +33,7 @@ def index():
     home_title = _('Welcome to Holberton')
     home_header = _('Hello world')
     return render_template(
-        '1-index.html', title=home_title, header=home_header)
+        '4-index.html', title=home_title, header=home_header)
 
 
 if __name__ == '__main__':
