@@ -1,3 +1,6 @@
 *main.py
 *.pyc
 *.csv
+node_modules/
+__pycache__/
+redis-stable/
